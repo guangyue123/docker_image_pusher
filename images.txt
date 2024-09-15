@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+serdamb/wordpress_exporter
